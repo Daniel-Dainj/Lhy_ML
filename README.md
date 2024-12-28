@@ -13,8 +13,6 @@
 
 </div>
 
-## [2021课程及资料链接](https://github.com/Fafa-DL/Lhy_Machine_Learning/tree/main/2021%20ML)   [2022课程及资料链接](https://github.com/Fafa-DL/Lhy_Machine_Learning/tree/main/2022%20ML)
-
 ## 目录
 &emsp;&emsp;[重磅须知](#重磅须知)
 
